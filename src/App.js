@@ -1,11 +1,10 @@
+import Tictactoe from "./components/Tictactoe";
 
 function App() {
 
   return (
-    <div className="container">
-      <h1>Hello World</h1>
-    </div>
+    <><Tictactoe/></>
   );
 }
 
-export default App;
+export default Tictactoe;
