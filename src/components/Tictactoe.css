@@ -2,6 +2,8 @@ body{
     background-color: black;
 }
 td{
+    padding-top: 5%;
+
     height: 150px;
     width: 150px;
     border: 1px solid white;
